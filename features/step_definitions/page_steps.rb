@@ -10,6 +10,6 @@ end
 When /^I should see "([^"]*)" in the "([^"]*)" list$/ do |text, list|
   pending
 end
-When /^the "([^"]*)" element should contain a|the "([^"]*)" control|element$/ do |parent, contained|
+When /^the "([^"]*)" element should contain (?:a|the) "([^"]*)" (?:control|element)$/ do |parent, contained|
   pending
 end
