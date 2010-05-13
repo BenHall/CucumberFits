@@ -13,3 +13,6 @@ end
 When /^the "([^"]*)" element should contain (?:a|the) "([^"]*)" (?:control|element)$/ do |parent, contained|
   pending
 end
+Then /^I should see "([^"]*)" in the page text$/ do |text|
+  pending
+end
