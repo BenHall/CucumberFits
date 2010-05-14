@@ -1,1 +1,15 @@
 .idea
+_ReSharper.*
+bin
+deploy
+deploy/*
+obj
+out
+out/*
+railsapp/log
+*.csproj.user
+*.resharper.user
+*.resharper
+*.suo
+*.cache
+~$*
